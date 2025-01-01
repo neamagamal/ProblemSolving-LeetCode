@@ -21,4 +21,12 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
