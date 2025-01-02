@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
@@ -25,8 +26,10 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
