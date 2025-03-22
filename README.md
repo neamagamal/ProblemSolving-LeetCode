@@ -32,4 +32,8 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
