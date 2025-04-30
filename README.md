@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/0009-palindrome-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
 |  |
