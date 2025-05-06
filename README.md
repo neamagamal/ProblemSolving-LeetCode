@@ -8,6 +8,7 @@ This repository contains my solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
@@ -40,4 +41,8 @@ This repository contains my solutions to LeetCode problems.
 | [1161-project-employees-i](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/1390-average-selling-price) |
 | [2087-confirmation-rate](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/2087-confirmation-rate) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
