@@ -27,6 +27,7 @@ This repository contains my solutions to LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/0020-valid-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
@@ -45,4 +46,8 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
