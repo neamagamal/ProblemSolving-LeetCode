@@ -23,6 +23,7 @@ This repository contains my solutions to LeetCode problems.
 ## Simulation
 |  |
 | ------- |
+| [3447-clear-digits](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
@@ -30,6 +31,7 @@ This repository contains my solutions to LeetCode problems.
 | [0020-valid-parentheses](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/0020-valid-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3447-clear-digits](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -50,4 +52,5 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/0020-valid-parentheses) |
+| [3447-clear-digits](https://github.com/neamagamal/ProblemSolving-LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
